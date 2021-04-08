@@ -1,0 +1,19 @@
+.pagination {
+    display: flex;
+    justify-content: center;
+}
+
+.form-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0;
+}
+
+.suffix{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 25px;
+    height: 100%;
+}
